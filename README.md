@@ -28,5 +28,5 @@
 - [AutoMine (SOSP'19)](paper/AutoMine.pdf) : Mawhirter D, Wu B. AutoMine: harmonizing high-level abstraction and high performance for graph mining[C]//Proceedings of the 27th ACM Symposium on Operating Systems Principles. 2019: 509-523.
 
 ## 图神经网络相关文章
-- [Representation Learning for Attributed Multiplex Heterogeneous Network](paper/RLAMHN.pdf)
+- [Representation Learning for Attributed Multiplex Heterogeneous Network (KDD'19)](paper/RLAMHN.pdf)
 - [Heterogeneous Graph Neural Network (KDD'19)](paper/HGNN.pdf)
