@@ -26,3 +26,7 @@
 除了上面提到的Arabesque，还有2篇最近发表的文章
 - [RStream (OSDI'18)](paper/RStream.pdf) : Wang K, Zuo Z, Thorpe J, et al. Rstream: Marrying relational algebra with streaming for efficient graph mining on a single machine[C]//13th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 18). 2018: 763-782.
 - [AutoMine (SOSP'19)](paper/AutoMine.pdf) : Mawhirter D, Wu B. AutoMine: harmonizing high-level abstraction and high performance for graph mining[C]//Proceedings of the 27th ACM Symposium on Operating Systems Principles. 2019: 509-523.
+
+## 图神经网络相关文章
+- [Representation Learning for Attributed Multiplex Heterogeneous Network](paper/RLAMHN.pdf)
+- [Heterogeneous Graph Neural Network (KDD'19)](paper/HGNN.pdf)
